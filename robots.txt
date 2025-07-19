@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srivaidik37400.github.io/Vaidik/sitemap.xml
